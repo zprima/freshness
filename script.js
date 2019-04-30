@@ -1,7 +1,5 @@
 const FRESHNESS_UI = 'freshness_ui';
 
-console.log("script here");
-
 // add freeshness_ui class to body
 var bodyEle = document.body;
 bodyEle.classList.add(FRESHNESS_UI);
